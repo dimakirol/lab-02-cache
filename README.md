@@ -2,7 +2,7 @@
 [![Travis][build-badge]][build]
 
 [build-badge]: https://img.shields.io/travis/kirill050/lab-02-cache/master.png?style=flat-square
-[build]: https://travis-ci.org/kirill050/lab-02-cache
+[build]: https://travis-ci.com/dimakirol/lab-05-stack
 > Кэш - промежуточный буфер с быстрым доступом, содержащий информацию, которая может быть запрошена с наибольшей вероятностью. Доступ к данным в кэше осуществляется быстрее, чем выборка исходных данных из более медленной памяти или удаленного источника, однако её объём существенно ограничен по сравнению с хранилищем исходных данных.
 
 ### Задача
